@@ -37,16 +37,20 @@ img {
 .espacamento{
 	padding:20px;
     
-}
-div.quadrinhoarredondadoexemplo {
-    background: #FFFFE2;
-    border: 1px dashed #bbb;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom:20px;
     padding: 5px;
     text-align: center;
     display: block;
-    border-radius: 10px;
-   border-radius: 10px;
-   border-radius: 10px;
+    
+}
+div.quadrinhoarredondadoexemplo {
+    
+    
+    margin-top: 20px;
+    margin-bottom:20px;
+    padding: 5px;
+    text-align: center;
+    display: block;
+    
 }
